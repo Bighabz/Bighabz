@@ -1,125 +1,50 @@
-<h1>Hi, I'm Habib!</h1>
-<h2 style="color:#58a6ff; font-weight:600;">
-  Cybersecurity Student • AI Research Intern • Security Professional
-</h2>
+# Hi, I'm Habib Jahshan
 
-<hr />
+**AI Solutions Engineer | Cybersecurity & AI Automation | CSUSB graduate | CSULB M.S. Information Systems, Fall 2026 cohort**
 
-<h2>🧠 AI & Cybersecurity Internship</h2>
-<p>
-  I'm a cybersecurity student at <strong>California State University, San Bernardino (CSUSB)</strong>,
-  graduating in <strong>May 2026</strong>. I currently work as an AI research intern under
-  <strong>Dr. Nestler</strong> on the <strong>AI Horizon Project</strong>, where I explore how
-  generative AI and automation impact cybersecurity roles and workflows.
-</p>
+I build practical AI applications and automation, with a background in security operations, workforce research, and physical security. I'm based in Los Angeles and interested in full-time opportunities at the intersection of AI, software, and cybersecurity.
 
-<ul>
-  <li>
-    Built AI-powered classification pipelines to analyze "social proof" that AI is changing (or replacing)
-    cybersecurity tasks across the Department of Defense Cyber Workforce Framework.
-  </li>
-  <li>
-    Used tools like <strong>Notebook LM</strong> to generate an AI podcast describing my internship experience,
-    summarizing research findings and explaining how AI is reshaping entry-level cyber work.
-  </li>
-  <li>
-    Worked with AI agents, RAG pipelines, Supabase, and automation platforms to collect, label,
-    and analyze real-world artifacts related to AI and cybersecurity.
-  </li>
-</ul>
+## What I'm working on
 
-<p>
-  You can learn more about this experience in my
-  <strong>2025 Internship Report</strong> (AI Horizon Project) and on the
-  <a href="https://www.theaihorizon.org/" target="_blank">AI Horizon website</a>.
-</p>
+As a **freelance AI Solutions Engineer** (May 2026 to present), I'm building a shop management platform for an independent auto repair business. Its AI service advisor helps draft repair estimates, assemble parts orders, and handle routine customer texts. A shared dashboard and CRM connects the workflow from the first customer message to the finished invoice.
 
-<hr />
+## Featured projects
 
-<h2>📺 Featured Content</h2>
-<ul>
-  <li>
-    🎧🎥 <strong>AI Internship Podcast (Generated with Notebook LM)</strong> – I created an AI-generated
-    podcast episode that explains my role, the research we’re doing, and how AI agents are being used in
-    cybersecurity. Watch it here:<br />
-    <a href="https://www.youtube.com/watch?v=P3wJ9Xiy12g&t=1s" target="_blank">
-      AI Horizon Internship Podcast – YouTube
-    </a>
-  </li>
-</ul>
+| Project | What I built |
+| --- | --- |
+| [AI Horizon](https://github.com/Bighabz/AI-Horizon) | An AI classification pipeline, evidence library, skills matrix, and RAG assistant for research into how AI changes cybersecurity work. Maps research papers, articles, videos, and learning resources to the DoD Cyber Workforce Framework. |
+| [CSUSB Capstone](https://github.com/Bighabz/CSUSB-Capstone) | The DOGPARK team's enterprise IT and security capstone: a Flask application, SQL database integration, IIS deployment, AI customer service agent, and infrastructure/security screenshots, brought together in one repository. |
+| [Job Hunter Agent](https://github.com/Bighabz/job-hunter-agent) | A personal job-search and application system using Claude Code, browser automation, reusable runbooks, and application tracking. Its current workflow focuses on employer ATS portals, durable deduplication, confirmation evidence, and bounded retries. |
 
-<hr />
+## Research & security experience
 
-<h2>🎓 Education & Certifications</h2>
-<ul>
-  <li><strong>B.S. Information Technology</strong>, CSUSB – Expected <strong>May 2026</strong></li>
-  <li><strong>A.S. Computer Information Systems</strong>, El Camino College</li>
-  <li><strong>Certificate in Cybersecurity</strong>, El Camino College</li>
-  <li><strong>POST PC832 Certificate</strong></li>
-  <li><strong>CompTIA A+</strong></li>
-  <li><strong>CompTIA Security+ (Sec+)</strong></li>
-  <li><strong>ISC2 Certified in Cybersecurity (CC)</strong></li>
-</ul>
+- **Research Assistant, The AI Horizon** | July 2025 to February 2026. Worked under Dr. Vincent Nestler on NSF-funded research at CSUSB. Built document-processing and agent workflows to classify evidence against **1,350 tasks across 52 DCWF work roles**, using the categories Replace, Augment, Remain Human, and New Task. The work included n8n, RAG, Supabase/pgvector, and AI models; the current repository uses FastAPI, Gemini, and PostgreSQL.
+- **Security Operations Center Analyst, CSUSB** | May to December 2025. Triaged SIEM alerts, investigated VPN traffic anomalies and false positives, and configured detection rules in **Taegis and Microsoft Defender**. Built AI-powered phishing and vishing simulations with **Vapi AI and ElevenLabs** for security awareness training.
+- **Armed Security Officer, Guardian International Solutions** | February 2026 to present. Provide retail security, loss prevention, surveillance, incident response, and documentation across multiple locations.
+- **Security Officer, Savage III** | January 2025 to present. Protect freight and railroad operations at the Los Angeles Transportation Center, coordinate with Union Pacific Railroad Police, and use LVT surveillance and Axon reporting tools.
+- **Additional experience:** advising customers on home and business security solutions at ADT.
 
-<hr />
+## Education & credentials
 
-<h2>🧭 Leadership & Mentoring</h2>
-<ul>
-  <li>
-    🛡️ <strong>Founding President – Cybersecurity Club, El Camino College</strong><br />
-    Started and led the college cybersecurity club, organizing events, workshops, and hands-on
-    security labs for students.
-  </li>
-  <li>
-    🏫 <strong>Member – CISO Club, CSUSB</strong><br />
-    Active member of the cybersecurity leadership community at CSUSB, focused on governance, risk,
-    and hands-on security practice.
-  </li>
-  <li>
-    🤝 <strong>Cyber Mentor Program – Mentor</strong><br />
-    Mentor undergraduate and graduate students, helping them learn AI automation using
-    <strong>n8n</strong>, and guiding them on how to integrate automation into cybersecurity workflows.
-  </li>
-</ul>
+- **M.S. Information Systems**, California State University, Long Beach | Fall 2026 cohort.
+- **B.S. Information Systems & Technology, Cybersecurity concentration**, California State University, San Bernardino | Completed 2026.
+- **A.S. Computer Information Systems** and **Certificate in Cybersecurity**, El Camino College.
+- **CompTIA Security+**, **CompTIA A+**, and **ISC2 Certified in Cybersecurity (CC)**.
+- **POST PC832 Certificate**.
+- **Black Hat USA 2025 Scholarship recipient**; attended DEFCON 33 with CSUSB sponsorship.
 
-<hr />
+## Leadership & mentoring
 
-<h2>🛡️ Security & Cyber Experience</h2>
-<ul>
-  <li>
-    <strong>Security Operations Center (SOC) – Cybersecurity Volunteer / Security Analyst</strong><br />
-    Investigating alerts, tuning detections, working with SIEM data, and helping strengthen the
-    security posture of the environment.
-  </li>
-  <li>
-    <strong>Armed Security Officer</strong><br />
-    Experience protecting people and property in high-responsibility environments and coordinating
-    with law enforcement when needed.
-  </li>
-  <li>
-    <strong>Solutions Advisor – ADT</strong><br />
-    Advising clients on security solutions and helping design and implement home and business
-    protection systems.
-  </li>
-</ul>
+- **Founding President, Cybersecurity Club at El Camino College:** organized events, workshops, and hands-on security labs.
+- **Cyber Mentorship Program, CSUSB** | August to December 2025. Led the AI Agents and Automation breakout group, supported cybersecurity coursework, and explored practical automation with students.
+- **CISO Club, CSUSB:** participated in the campus cybersecurity community.
 
-<hr />
+## Tools I work with
 
-<h2>📬 Connect with Me</h2>
-<ul>
-  <li>
-    💼 <strong>LinkedIn:</strong>
-    <a href="https://www.linkedin.com/in/habib-jahshan-2750a514a" target="_blank">
-      linkedin.com/in/habib-jahshan-2750a514a
-    </a>
-  </li>
-  <li>
-    📸 <strong>Instagram:</strong>
-    <a href="https://www.instagram.com/bighabz/" target="_blank">@bighabz</a>
-  </li>
-</ul>
+**AI & automation:** Python, n8n, LangChain/LangGraph, RAG, Gemini, OpenAI, Claude Code, Supabase/pgvector, Vapi AI, ElevenLabs.
 
-<p>
-  Thanks for stopping by! I'm always excited to talk about cybersecurity, AI agents, and how automation
-  is changing the future of work.
-</p>
+**Applications & security:** FastAPI, Flask, Next.js, SQL/PostgreSQL, Windows Server/IIS, SIEM investigation, Taegis, Microsoft Defender.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/habib-jahshan-2750a514a/) · [AI Horizon research website](https://theaihorizon.org/) · [AI Horizon internship podcast](https://www.youtube.com/watch?v=P3wJ9Xiy12g)
